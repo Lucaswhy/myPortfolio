@@ -18,7 +18,7 @@
         </div>
       </div>
       <div class="div__figure">
-          <img src="@/assets/lucash.jpg">
+          <img src="@/assets/luks.jpg">
       </div>
 
 
