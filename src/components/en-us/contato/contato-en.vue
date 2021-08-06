@@ -25,6 +25,6 @@ export default {
 }
 </script>
 
-<style src="@/components/pt-br/contato/style.scss" lang="scss" scoped>
+<style src="@/components/pt-br/contato/style.scss" lang="scss">
 
 </style>

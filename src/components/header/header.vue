@@ -16,13 +16,13 @@
               <div @click="isDropped = !isDropped">
                 <div class="menu__arrow" :style="isDropped == false ? '' : 'transform:rotate(180deg)'" />
                 <img src="@/assets/brazil.jpg">
-                <transition name="fade">
-                  <a href="./home-en">
+                <a href="./home-en">
+                  <transition name="fade">
                     <div v-if="isDropped" class="menu--drop">
                         <img src="@/assets/united-states.jpg">
                     </div>  
-                  </a>
-                </transition>
+                  </transition>
+                </a>
               </div>
             </nav>
     </div>
