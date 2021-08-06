@@ -3,7 +3,6 @@
 div{
     background-color: $headerColor;
     height: 50px;
-    padding: 0;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -41,13 +40,20 @@ div{
                             border-left: 5px solid transparent;
                             border-right: 5px solid transparent;
                             border-top: 5px solid $spotlightColor;
+                            @media only screen and (max-width: 992px){
+                            left: 8px;
+                            }
                         }
-                        .menu--drop{
+                        a{
                             position: absolute;
-                            top: 100%;
-                            background-color: $headerColor;
-                            a{
-                                margin: auto;
+                            top:100%;
+                            .menu--drop{
+                                top: 100%;
+                                background-color: $headerColor;
+                            }
+                            .menu--drop:hover{
+                                opacity: 1;
+                                background-color: $headerColor;
                             }
                         }
                         .fade-enter-active, .fade-leave-active {
@@ -85,9 +91,7 @@ div{
             .box__hamburger{
                 background-color: $headerColor;
                 width: 50px;
-                height: 40px;
                 right: 0px;
-                border: 1px solid $fontColor;
                 border-radius: 3px;
                 display: flex;
                 flex-direction: column;

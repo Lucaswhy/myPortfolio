@@ -17,7 +17,7 @@
         <div class="div__hover">
           <p>Sales Web Mvc</p>
           <p>E-commerce did in C# only to learn, has things like, filtering, pagination, ordination by price, etc..</p>
-          <span><a href="https://github.com/Lucaswhy/SalesWebMvc">Check in my Github! <i class="bi bi-box-arrow-up-right"></i></a></span>
+          <span><a target="_blank" href="https://github.com/Lucaswhy/SalesWebMvc">Check in my Github! <i class="bi bi-box-arrow-up-right"></i></a></span>
         </div>
       </div>
 
@@ -31,7 +31,7 @@
           <p>
             A study project to learn Vuex, is a portfolio of stocks. Is integrated with firebase to reload data.
           </p>
-          <span><a href="https://keen-knuth-d2164c.netlify.app/">Check out! <i class="bi bi-box-arrow-up-right"></i></a></span>
+          <span><a target="_blank" href="https://keen-knuth-d2164c.netlify.app/">Check out! <i class="bi bi-box-arrow-up-right"></i></a></span>
         </div>
       </div>
 
@@ -43,7 +43,7 @@
         <div style="background-color: green;" class="div__hover">
           <p>Hydrochorus</p>
           <p>TCC Project from my university, where I utilized Node.js to all back-end, I did with a friend, helped a little on the front-end too. With MongoDB in the database, have a structure with crud, relations, filtering, reports, etc..</p>
-          <span><a href="">Check out!  <i class="bi bi-box-arrow-up-right"></i></a></span>
+          <span><a target="_blank" href="">Check out! <i class="bi bi-box-arrow-up-right"></i></a></span>
         </div>
       </div>
 

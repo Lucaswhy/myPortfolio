@@ -4,7 +4,7 @@
     <h2>Projetos</h2>
 
     <div class="div__text">
-      <span>Assim como todo meu portfólio em Vue.js, aqui estão alguns dos projetos no quais eu trabalhei em grande parte, e sua descrição dele, contendo um pouco da tecnologia usada e alguns exemplos em Deploy, passe o mouse encima de cada projeto. =)</span>
+      <span>Assim como todo meu portfólio em Vue.js, aqui estão alguns dos projetos no quais eu trabalhei em grande parte, e sua descrição dele, contendo um pouco da tecnologia usada e alguns exemplos em Deploy, passe o mouse sobre cada projeto. =)</span>
     </div>
 
     <div class="div__main ">
@@ -17,7 +17,7 @@
         <div class="div__hover">
           <p>Sales Web Mvc</p>
           <p>E-commerce feito todo com C# apenas para aprendizado com filtragem, paginação, ordenação por preço, etc.</p>
-          <span><a href="https://github.com/Lucaswhy/SalesWebMvc">Disponível no meu Github! <i class="bi bi-box-arrow-up-right"></i></a></span>
+          <span><a target="_blank" href="https://github.com/Lucaswhy/SalesWebMvc">Disponível no meu Github! <i class="bi bi-box-arrow-up-right"></i></a></span>
         </div>
       </div>
 
@@ -31,7 +31,7 @@
           <p>Um projeto de estudo com aprendizado no Vuex servindo como um portfólio de ações.
             Está integrado com o firebase para recarregar o estado.
           </p>
-          <span><a href="https://keen-knuth-d2164c.netlify.app/">Dê uma olhada! <i class="bi bi-box-arrow-up-right"></i></a></span>
+          <span><a target="_blank" href="https://keen-knuth-d2164c.netlify.app/">Dê uma olhada! <i class="bi bi-box-arrow-up-right"></i></a></span>
         </div>
       </div>
 
@@ -43,7 +43,7 @@
         <div style="background-color: green;" class="div__hover">
           <p>Hydrochorus</p>
           <p>Projeto do TCC da minha faculdade aonde utilizei Node.js para fazer o back-end inteiro, foi feito com um colega, ajudei um pouco no front-end também. Com MongoDb no banco, tem toda uma estrutura de Crud, relações, filtragem, relatório, etc.</p>
-          <span><a href="">Check out!  <i class="bi bi-box-arrow-up-right"></i></a></span>
+          <span><a target="_blank" href="">Dê uma olhada!  <i class="bi bi-box-arrow-up-right"></i></a></span>
         </div>
       </div>
       

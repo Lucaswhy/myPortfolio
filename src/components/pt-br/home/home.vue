@@ -9,7 +9,7 @@
                   desenvolver mais projetos e ampliar minhas habilidades. Tenho 
                   como objetivo crescer minha carreira como desenvolvedor.</span>
             <p>
-              <a href="https://drive.google.com/file/d/1l4Uq5CLh38MdUMJdJT6PSBBMDRx6eMn-/view?usp=sharing"><button class="btn btn__download mt-4">Baixar CV</button></a>
+              <a target="_blank" href="https://drive.google.com/file/d/1l4Uq5CLh38MdUMJdJT6PSBBMDRx6eMn-/view?usp=sharing"><button class="btn btn__download mt-4">Baixar CV</button></a>
             </p>
           </div>
         <div class="div__img">
@@ -67,7 +67,7 @@
               encontrados no meu GitHub e caso esteja 
               interessado, veja mais na página de <a href="./projeto">Projetos</a>.</span>
               <p>
-              <a href="https://github.com/Lucaswhy"><button class="btn btn__download">Lucaswhy <i class="bi bi-github mt-4"/></button></a>
+              <a target="_blank" href="https://github.com/Lucaswhy"><button class="btn btn__download">Lucaswhy <i class="bi bi-github mt-4"/></button></a>
               </p>
           </div>
           <div class="div__carrossel">

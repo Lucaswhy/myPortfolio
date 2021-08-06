@@ -14,7 +14,7 @@
         Sobre personalidade, sou uma pessoa bem tranquila e esforçada quando se trata do profissional, por fora, adoro mangás, jogos e tomar uma cervejinha.
         </span> 
         <div>
-          <a href="https://drive.google.com/file/d/1l4Uq5CLh38MdUMJdJT6PSBBMDRx6eMn-/view?usp=sharing"><button class="btn btn__download mt-4">Baixar CV</button></a>
+          <a target="_blank" href="https://drive.google.com/file/d/1l4Uq5CLh38MdUMJdJT6PSBBMDRx6eMn-/view?usp=sharing"><button class="btn btn__download mt-4">Baixar CV</button></a>
         </div>
       </div>
       <div class="div__figure">

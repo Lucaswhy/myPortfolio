@@ -13,7 +13,7 @@ div{
 
     .div__main{
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         color: $fontColor;
         font-size: 18px;
         @media only screen and (max-width: 992px){
@@ -36,9 +36,9 @@ div{
             img{
                 width: 400px;
                 height: auto;
+                border-radius: 10px;
                 @media only screen and (max-width: 992px){
                     width: 200px;
-                    border-radius: 10px;
                 }
                 
             }

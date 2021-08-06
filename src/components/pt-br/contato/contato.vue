@@ -9,10 +9,10 @@
             </div>
             <div>
                 <p>
-                    <a href="https://api.whatsapp.com/send?phone=5511961994798&text=Ol%C3%A1!%20Tudo%20bom??"> Whatsapp <i class="bi bi-box-arrow-up-right"></i> </a>
+                    <a target="_blank" href="https://api.whatsapp.com/send?phone=5511961994798&text=Ol%C3%A1!%20Tudo%20bom??"> Whatsapp <i class="bi bi-box-arrow-up-right"></i> </a>
                 </p>
                 <p>
-                    <a href="https://www.linkedin.com/in/lucas-rodrigues-ab797b190/"> Linkedin <i class="bi bi-box-arrow-up-right"></i> </a>
+                    <a target="_blank" href="https://www.linkedin.com/in/lucas-rodrigues-ab797b190/"> Linkedin <i class="bi bi-box-arrow-up-right"></i> </a>
                 </p>
             </div>
         </div>

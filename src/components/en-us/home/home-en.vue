@@ -7,7 +7,7 @@
             <span>22 years old, university done, junior full stack developer, i love to work with Node.js and Vue.js,
                always doing courses to develops more projects and expand my skills. I have as an objective to grow my carrier as a developer.</span>
             <p>
-              <a href="https://drive.google.com/file/d/1l4Uq5CLh38MdUMJdJT6PSBBMDRx6eMn-/view?usp=sharing"><button class="btn btn__download mt-4">Download CV</button></a>
+              <a target="_blank" href="https://drive.google.com/file/d/1l4Uq5CLh38MdUMJdJT6PSBBMDRx6eMn-/view?usp=sharing"><button class="btn btn__download mt-4">Download CV</button></a>
             </p>
           </div>
         <div class="div__img">
@@ -63,7 +63,7 @@
           I always doing projects to apply my skills learned in my studies/courses, all of them can be founded in my Github page, and if you’re interessed, 
           you can see they in my <a href="./projeto-en">Project page</a>.</span>
               <p>
-              <a href="https://github.com/Lucaswhy"><button class="btn btn__download">Lucaswhy <i class="bi bi-github mt-4"/></button></a>
+              <a target="_blank" href="https://github.com/Lucaswhy"><button class="btn btn__download">Lucaswhy <i class="bi bi-github mt-4"/></button></a>
               </p>
           </div>
           <div class="div__carrossel">

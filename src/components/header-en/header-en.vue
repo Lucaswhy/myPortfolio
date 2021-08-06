@@ -3,7 +3,7 @@
      <div class="container-fluid">
         <h1 class="menu__logo">Lucas Herculano</h1>
             <div class="box__hamburger" @click="isOpened = !isOpened">
-              <div></div>
+              <div style="margin-top: 0;"></div>
               <div></div>
               <div></div>
             </div>
@@ -17,9 +17,11 @@
                 <div class="menu__arrow" :style="isDropped == false ? '' : 'transform:rotate(180deg)'" />
                 <img src="@/assets/united-states.jpg">
                 <transition name="fade">
-                  <div v-if="isDropped" class="menu--drop">
-                      <a href="./"><img src="@/assets/brazil.jpg"></a>
-                  </div>  
+                  <a href="./">
+                    <div v-if="isDropped" class="menu--drop">
+                        <img src="@/assets/brazil.jpg">
+                    </div>
+                  </a>
                 </transition>
               </div>
             </nav>

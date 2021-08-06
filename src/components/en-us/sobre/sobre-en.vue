@@ -14,7 +14,7 @@
             About my personality, i’m a calm person and dedicated when it’s about work, out of it, I love mangás, games and drinking a beer.
         </span> 
         <div>
-          <a href="https://drive.google.com/file/d/1l4Uq5CLh38MdUMJdJT6PSBBMDRx6eMn-/view?usp=sharing"><button class="btn btn__download mt-4">Download CV</button></a>
+          <a target="_blank" href="https://drive.google.com/file/d/1l4Uq5CLh38MdUMJdJT6PSBBMDRx6eMn-/view?usp=sharing"><button class="btn btn__download mt-4">Download CV</button></a>
         </div>
       </div>
       <div class="div__figure">
