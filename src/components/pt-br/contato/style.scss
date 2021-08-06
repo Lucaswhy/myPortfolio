@@ -9,7 +9,6 @@ div{
 
     h2{
         font-size: 40px;
-        text-align: center;
         color: $fontColor;
         font-family: 'Montserrat','Raleway Light',Arial;
         @media only screen and (max-width: 992px){
@@ -23,6 +22,7 @@ div{
         font-family: 'Raleway Light', 'Montserrat', Arial;
         color: $fontColor;
         font-size: 28px;
+        margin-top: 50px !important;
         @media only screen and (max-width: 992px){
             flex-direction: column;
             font-size: 18px;
