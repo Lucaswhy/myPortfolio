@@ -7,14 +7,17 @@ div{
     }
 
     h2{
+        padding-top: 100px;
         font-size: 40px;
         color: $fontColor;
         font-family: 'Montserrat','Raleway Light',Arial;
         @media only screen and (max-width: 992px){
             font-size: 30px;
+            padding-top: 0;
         }
         @media only screen and (max-width: 575px){
             font-size: 28px;
+            padding-top: 0;
         }
     }
     .div__itens{
