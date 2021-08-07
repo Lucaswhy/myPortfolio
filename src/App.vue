@@ -2,7 +2,7 @@
   <div id="app">
     <Header v-if="language == 'pt'"/>
     <HeaderEn v-if="language == 'en'"/>
-    <div class="div__primary" style="min-height: 80vh;">
+    <div style="min-height: 80vh;">
       <router-view/>
     </div>
     <Footer/>
