@@ -36,7 +36,7 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingThree">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        Node.js
+        Node.js + Express.js + RESTful API
         <i class="bi bi-arrow-down-square-fill icon__arrow"></i>
       </button>
     </h2>
