@@ -7,7 +7,7 @@
   <div class="accordion-item mt-4">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-        Vue.js
+        Vue.js (with Vuex)
       <i class="bi bi-arrow-down-square-fill icon__arrow"></i>
       </button>
     </h2>
@@ -107,11 +107,69 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingEight">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-        Scrum + QA
+        React (with Redux)
         <i class="bi bi-arrow-down-square-fill icon__arrow"></i>
       </button>
     </h2>
     <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" >
+      <div class="accordion-body">
+        <span class="span__text">Studying i learned to use in front-end React too, i know how to use hooks and Redux normally, it's the technology used in my current job. I work with React in Typescript too,
+           although in my opinion React without Typescript is the best way to use it.</span>
+      </div>
+    </div>
+  
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingNine">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+        Typescript
+        <i class="bi bi-arrow-down-square-fill icon__arrow"></i>
+      </button>
+    </h2>
+    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" >
+      <div class="accordion-body">
+        <span class="span__text">I studied too many Typescript because i know that was important to techonologys that works with Javascript, and i learned how to use it. I can use it normally, i like how the project structure stay like objects oriented, and can be define types and interfaces.
+           Actually, i work in my current job with Typescript integrated to Node and NestJS.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTen">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+        Node.js + NestJS + Prisma
+        <i class="bi bi-arrow-down-square-fill icon__arrow"></i>
+      </button>
+    </h2>
+    <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" >
+      <div class="accordion-body">
+        <span class="span__text">In my current job of back-end developer, i was introducted to NestJS framwork to use it in Express place, which made me learn about the technology and start to use it, i see that many things looks very interesting and started to use it in my daily life, i like the way that many things can be more easily in NestJS.
+           The Prisma framework helps a lot in date manipulation.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingEleven">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+        TypeORM
+        <i class="bi bi-arrow-down-square-fill icon__arrow"></i>
+      </button>
+    </h2>
+    <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven" >
+      <div class="accordion-body">
+        <span class="span__text">I did a course about Node with TypeORM and was when i learned how to use it to do Migrations and helps in data manipulations. It one of the techonologys that i use in my current work and i have been learned a lot.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwelve">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+        Scrum + QA
+        <i class="bi bi-arrow-down-square-fill icon__arrow"></i>
+      </button>
+    </h2>
+    <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingTwelve" >
       <div class="accordion-body">
           <span class="span__text">Derived too from my QA experience, I have a good vision to system with quality and experience to final user. Always utilized Scrum to reunions with the team. Never had problems with, I’m good with sprints and daily.</span>
       </div>
@@ -119,6 +177,7 @@
   </div>
 
     </div>
+  </div>
 </template>
 
 <script>

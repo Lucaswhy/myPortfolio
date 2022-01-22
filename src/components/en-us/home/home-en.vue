@@ -4,10 +4,10 @@
       <div class="div__resume">
           <div class="div--resume">
             <h2 class="mb-4">Lucas Herculano Rodrigues</h2> 
-            <span>22 years old, university done, junior full stack developer, i love to work with Node.js and Vue.js,
+            <span>23 years old, university done, junior full stack developer, i love to work with Node.js and Vue.js,
                always doing courses to develops more projects and expand my skills. I have as an objective to grow my carrier as a developer.</span>
             <p>
-              <a target="_blank" href="https://drive.google.com/file/d/1l4Uq5CLh38MdUMJdJT6PSBBMDRx6eMn-/view?usp=sharing"><button class="btn btn__download mt-4">Download CV</button></a>
+              <a target="_blank" href="https://drive.google.com/file/d/1kt4MnKRV2HmTYrv-B131RW1hMxymH4zg/view?usp=sharing"><button class="btn btn__download mt-4">Download CV</button></a>
             </p>
           </div>
         <div class="div__img">
@@ -31,9 +31,9 @@
           <div class="div--habilidade">
             <i class="bi bi-laptop"/>
               <nav>
-                <li>HTML, CSS3, Javascript, SASS, Vue.js</li>
+                <li>HTML, CSS3, Javascript, SASS, Vue, React</li>
                 <li>Node.js, .NET core</li>
-                <li>mySQL, SQLServer, MongoDB, etc...</li>
+                <li>mySQL, SQLServer, MongoDB, Postgresql</li>
                 <li>Capacity to learn any new technology.</li>
               </nav>
           </div>
@@ -42,6 +42,7 @@
               <nav>
                 <li>Experience with unit tests, usability, etc..</li>
                 <li>Automated software testing with Selenium.</li>
+                <li>Now working with Jest.</li>
               </nav>
           </div>
           <div class="div--habilidade">

@@ -4,12 +4,12 @@
       <div class="div__resume">
           <div class="div--resume">
             <h2 class="mb-4">Lucas Herculano Rodrigues</h2> 
-            <span>22 anos, ensino superior completo, desenvolvedor fullstack júnior, 
+            <span>23 anos, ensino superior completo, desenvolvedor fullstack júnior, 
                   adoro trabalhar com Node.js e Vue.js, sempre fazendo cursos para 
                   desenvolver mais projetos e ampliar minhas habilidades. Tenho 
                   como objetivo crescer minha carreira como desenvolvedor.</span>
             <p>
-              <a target="_blank" href="https://drive.google.com/file/d/1l4Uq5CLh38MdUMJdJT6PSBBMDRx6eMn-/view?usp=sharing"><button class="btn btn__download mt-4">Baixar CV</button></a>
+              <a target="_blank" href="https://drive.google.com/file/d/1kt4MnKRV2HmTYrv-B131RW1hMxymH4zg/view?usp=sharing"><button class="btn btn__download mt-4">Baixar CV</button></a>
             </p>
           </div>
         <div class="div__img">
@@ -33,9 +33,9 @@
           <div class="div--habilidade">
             <i class="bi bi-laptop"/>
               <nav>
-                <li>HTML, CSS3, Javascript, SASS, Vue.js</li>
+                <li>HTML, CSS3, Javascript, SASS, Vue, React</li>
                 <li>Node.js, .NET core</li>
-                <li>mySQL, SQLServer, MongoDB, etc...</li>
+                <li>mySQL, SQLServer, MongoDB, Postgresql</li>
                 <li>Capacidade para aprender utilizar qualquer tecnologia nova.</li>
               </nav>
           </div>
@@ -44,6 +44,7 @@
               <nav>
                 <li>Experiência com testes unitários, de usabilidade, etc..</li>
                 <li>Teste automatizados com Selenium.</li>
+                <li>Trabalhando atualmente com Jest.</li>
               </nav>
           </div>
           <div class="div--habilidade">
