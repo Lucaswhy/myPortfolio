@@ -7,7 +7,7 @@
             <span>23 years old, university done, junior full stack developer, i love to work with Node.js and Vue.js,
                always doing courses to develops more projects and expand my skills. I have as an objective to grow my carrier as a developer.</span>
             <p>
-              <a target="_blank" href="https://drive.google.com/file/d/15scmCJvuA6XcZejSMJXyFiNVNojNWtC5/view?usp=sharing"><button class="btn btn__download mt-4">Download CV</button></a>
+              <a target="_blank" href="https://docs.google.com/document/d/1c_1nW8iwKYQsZvRNab_PhNoJDgjnZ-R6KxbjsQL5x9c/edit?usp=sharing"><button class="btn btn__download mt-4">Download CV</button></a>
             </p>
           </div>
         <div class="div__img">

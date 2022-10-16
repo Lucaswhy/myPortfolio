@@ -9,7 +9,7 @@
                   desenvolver mais projetos e ampliar minhas habilidades. Tenho 
                   como objetivo crescer minha carreira como desenvolvedor.</span>
             <p>
-              <a target="_blank" href="https://drive.google.com/file/d/15scmCJvuA6XcZejSMJXyFiNVNojNWtC5/view?usp=sharing"><button class="btn btn__download mt-4">Baixar CV</button></a>
+              <a target="_blank" href="https://docs.google.com/document/d/1c_1nW8iwKYQsZvRNab_PhNoJDgjnZ-R6KxbjsQL5x9c/edit?usp=sharing"><button class="btn btn__download mt-4">Baixar CV</button></a>
             </p>
           </div>
         <div class="div__img">
